@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_block">
+    <sys_hub_flow_block action="INSERT_OR_UPDATE">
+        <label_cache/>
+        <name/>
+        <sys_class_name>sys_hub_flow_block</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 11:21:34</sys_created_on>
+        <sys_id>08e1ca19db42630047c2d100cf96192c</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_290830_needit_sp">97027dd9db02630047c2d100cf961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">97027dd9db02630047c2d100cf961947</sys_scope>
+        <sys_update_name>sys_hub_flow_block_08e1ca19db42630047c2d100cf96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 11:37:04</sys_updated_on>
+    </sys_hub_flow_block>
+</record_update>
